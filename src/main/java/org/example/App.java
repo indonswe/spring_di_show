@@ -9,6 +9,7 @@ public class App
 {
     public static void main( String[] args )
     {
+        //commenting
         AnnotationConfigApplicationContext context =
                 new AnnotationConfigApplicationContext(AppConfig.class);
 
